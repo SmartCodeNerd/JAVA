@@ -9,7 +9,7 @@ public class hello {
         float pi = 3.14f;
         System.out.println(pi);
         int marksInt = 150;
-        byte marksByte = marks;
+        byte marksByte = (byte)marks;
         System.out.println("Hii");
         System.out.println(marksInt);
         System.out.println(marksByte);
